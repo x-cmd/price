@@ -1,0 +1,29 @@
+gemini-2.5-flash:
+  input:
+    text: 0.3
+    audio: 1
+  output:
+    text: 2.5
+
+gemini-2.5-flash-lite-preview:
+  input:
+    text: 0.1
+    text-cache: 0.025
+    audio: 0.5
+    audio-cache: 0.125
+  output:
+    text: 0.4
+
+gemini-2.5-pro:
+  input:
+    text: 1.25
+    text-cache: 0.31
+    text-200k: 2.5
+    text-200k-cache: 0.625
+  output:
+    text: 10
+    text-200k: 15
+
+
+
+
