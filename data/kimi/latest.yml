@@ -1,0 +1,61 @@
+
+kimi-k2-0711-preview:
+  input:
+    text: 0.1500
+    text-cache: 0.6000
+  output:
+    text: 2.5000
+
+kimi-k2-turbo-preview:
+  input:
+    text: 0.6000
+    text-cache: 2.4000
+  output:
+    text: 10.0000
+kimi-latest:
+  input:
+    text-8k: 0.1500
+    text-8k-cache: 0.2000
+    text-32k: 0.1500
+    text-32k-cache: 1.0000
+    text-128k: 0.1500
+    text-128k-cache: 2.0000
+  output:
+    text-8k: 2.0000
+    text-32k: 3.0000
+    text-128k: 5.0000
+moonshot-v1-8k:
+  input:
+    text: 0.2000
+  output:
+    text: 2.0000
+moonshot-v1-32k:
+  input:
+    text: 1.0000
+  output:
+    text: 3.0000
+moonshot-v1-128k:
+  input:
+    text: 2.0000
+  output:
+    text: 5.0000
+moonshot-v1-8k-vision-preview:
+  input:
+    text: 0.2000
+  output:
+    text: 2.0000
+moonshot-v1-32k-vision-preview:
+  input:
+    text: 1.0000
+  output:
+    text: 3.0000
+moonshot-v1-128k-vision-preview:
+  input:
+    text: 2.0000
+  output:
+    text: 5.0000
+kimi-thinking-preview:
+  input:
+    text: 30.0000
+  output:
+    text: 30.0000

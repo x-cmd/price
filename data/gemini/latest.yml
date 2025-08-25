@@ -1,29 +1,115 @@
-gemini-2.5-flash:
-  input:
-    text: 0.3
-    audio: 1
-  output:
-    text: 2.5
 
-gemini-2.5-flash-lite-preview:
-  input:
-    text: 0.1
-    text-cache: 0.025
-    audio: 0.5
-    audio-cache: 0.125
-  output:
-    text: 0.4
 
 gemini-2.5-pro:
   input:
-    text: 1.25
-    text-cache: 0.31
-    text-200k: 2.5
-    text-200k-cache: 0.625
+    text: 1.2500
+    text-200k: 2.5000
+    text-cache: 0.3100
+    text-200k-cache: 0.6250
   output:
-    text: 10
-    text-200k: 15
+    text: 10.0000
+    text-200k: 15.0000
+gemini-2.5-flash:
+  input:
+    text: 0.3000
+    audio: 1.0000
+    text-cache: 0.0750
+    audio-cache: 0.2500
+  output:
+    text: 2.5000
+gemini-2.5-flash-lite:
+  input:
+    text: 0.1000
+    audio: 0.3000
+    text-cache: 0.0250
+    audio-cache: 0.1250
+  output:
+    text: 0.4000
+gemini-2.5-pro-exp-03-25:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+gemini-2.5-pro-preview:
+  input:
+    text: 1.2500
+  output:
+    text: 10.0000
+gemini-2.5-flash-preview:
+  input:
+    text: 0.1500
+  output:
+    text: 0.6000
+gemini-2.5-flash-lite-preview-06-17:
+  input:
+    text: 0.1000
+    text-cache: 0.0250
+    audio: 0.5000
+    audio-cache: 0.1250
+  output:
+    text: 0.4000
 
+gemini-2.0-flash:
+  input:
+    text: 0.1000
+    audio: 0.7000
+    text-cache: 0.0250
+    audio-cache: 0.1750
+  output:
+    text: 0.4000
+gemini-2.0-flash-lite:
+  input:
+    text: 0.0750
+  output:
+    text: 0.3000
 
-
-
+gemini-pro:
+  input:
+    text: 0.1250
+  output:
+    text: 0.3750
+gemini-1.0-pro-vision-001:
+  input:
+    text: 0.1250
+  output:
+    text: 0.3750
+gemini-1.0-pro:
+  input:
+    text: 0.1250
+  output:
+    text: 0.3750
+gemini-1.5-flash:
+  input:
+    text: 0.3500
+  output:
+    text: 1.0500
+gemini-flash-1.5-8b:
+  input:
+    text: 0.0375
+  output:
+    text: 0.1500
+gemini-1.5-pro:
+  input:
+    text: 3.5000
+  output:
+    text: 10.5000
+claude-3-opus:
+  input:
+    text: 15.0000
+  output:
+    text: 75.0000
+claude-3-5-haiku:
+  input:
+    text: 0.8000
+  output:
+    text: 4.0000
+claude-3-5-sonnet:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000
+claude-3-7-sonnet:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000

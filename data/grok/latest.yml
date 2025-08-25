@@ -1,0 +1,46 @@
+grok-beta:
+  input:
+    text: 5.0000
+  output:
+    text: 15.0000
+grok-vision-beta:
+  input:
+    text: 5.0000
+  output:
+    text: 15.0000
+grok-2-1212:
+  input:
+    text: 2.0000
+  output:
+    text: 10.0000
+grok-2-vision-1212:
+  input:
+    text: 2.0000
+  output:
+    text: 10.0000
+grok-3:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000
+grok-3-fast:
+  input:
+    text: 3.0000
+  output:
+    text: 25.0000
+grok-3-mini:
+  input:
+    text: 0.3000
+  output:
+    text: 0.5000
+grok-3-mini-fast:
+  input:
+    text: 0.6000
+  output:
+    text: 4.0000
+grok-4:
+  input:
+    text: 3.0000
+    text-cache: 0.7500
+  output:
+    text: 15.0000

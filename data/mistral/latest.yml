@@ -1,0 +1,120 @@
+open-mistral-7b:
+  input:
+    text: 0.2500
+  output:
+    text: 0.2500
+open-mixtral-8x7b:
+  input:
+    text: 0.7000
+  output:
+    text: 0.7000
+mistral-tiny:
+  input:
+    text: 0.1400
+  output:
+    text: 0.4200
+mistral-small:
+  input:
+    text: 0.1400
+  output:
+    text: 0.4200
+mistral-small-latest:
+  input:
+    text: 0.1400
+  output:
+    text: 0.4200
+mistral-medium:
+  input:
+    text: 2.3900
+  output:
+    text: 7.1700
+mistral-medium-latest:
+  input:
+    text: 2.3900
+  output:
+    text: 7.1700
+mistral-large:
+  input:
+    text: 2000.0000
+  output:
+    text: 6000.0000
+mistral-large-latest:
+  input:
+    text: 2000.0000
+  output:
+    text: 6000.0000
+mistral-embed:
+  input:
+    text: 0.1000
+  output:
+    text: 0.1000
+mistral-7b-instruct:
+  input:
+    text: 0.1400
+  output:
+    text: 0.4200
+mistral-7b-instruct-v0.1:
+  input:
+    text: 0.1400
+  output:
+    text: 0.4200
+mistral-7b-instruct-v0.2:
+  input:
+    text: 0.1400
+  output:
+    text: 0.4200
+mistral-7b-instruct-v0.3:
+  input:
+    text: 0.1400
+  output:
+    text: 0.4200
+mixtral-8x7b-instruct:
+  input:
+    text: 0.1400
+  output:
+    text: 0.4200
+mixtral-8x22b-instruct:
+  input:
+    text: 2000.0000
+  output:
+    text: 6000.0000
+mistral-medium-3:
+  input:
+    text: 400.0000
+  output:
+    text: 2000.0000
+magistral-medium:
+  input:
+    text: 2000.0000
+  output:
+    text: 5000.0000
+codestral:
+  input:
+    text: 300.0000
+  output:
+    text: 900.0000
+devstral-medium:
+  input:
+    text: 400.0000
+  output:
+    text: 2000.0000
+mistral-saba:
+  input:
+    text: 200.0000
+  output:
+    text: 600.0000
+pixtral-large:
+  input:
+    text: 2000.0000
+  output:
+    text: 6000.0000
+mistral-small-3.2:
+  input:
+    text: 100.0000
+  output:
+    text: 300.0000
+mixtral-8x22b:
+  input:
+    text: 2000.0000
+  output:
+    text: 6000.0000

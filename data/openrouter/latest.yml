@@ -1,0 +1,1585 @@
+openai/gpt-oss-120b:
+  input:
+    text: 0.1000
+  output:
+    text: 0.5000
+openai/gpt-oss-20b:
+  input:
+    text: 0.0500
+  output:
+    text: 0.2000
+anthropic/claude-opus-4.1:
+  input:
+    text: 15.0000
+  output:
+    text: 75.0000
+openrouter/horizon-beta:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+mistralai/codestral-2508:
+  input:
+    text: 0.3000
+  output:
+    text: 0.9000
+qwen/qwen3-30b-a3b-instruct-2507:
+  input:
+    text: 0.2000
+  output:
+    text: 0.8000
+z-ai/glm-4.5:
+  input:
+    text: 0.2000
+  output:
+    text: 0.2000
+z-ai/glm-4.5-air:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+z-ai/glm-4.5-air:
+  input:
+    text: 0.2000
+  output:
+    text: 1.1000
+qwen/qwen3-235b-a22b-thinking-2507:
+  input:
+    text: 0.0780
+  output:
+    text: 0.3120
+z-ai/glm-4-32b:
+  input:
+    text: 0.1000
+  output:
+    text: 0.1000
+qwen/qwen3-coder:
+  input:
+    text: 0.1999
+  output:
+    text: 0.8001
+bytedance/ui-tars-1.5-7b:
+  input:
+    text: 0.1000
+  output:
+    text: 0.2000
+google/gemini-2.5-flash-lite:
+  input:
+    text: 0.1000
+  output:
+    text: 0.4000
+qwen/qwen3-235b-a22b-2507:
+  input:
+    text: 0.0780
+  output:
+    text: 0.3120
+switchpoint/router:
+  input:
+    text: 0.8500
+  output:
+    text: 3.4000
+moonshotai/kimi-k2:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+moonshotai/kimi-k2:
+  input:
+    text: 0.1400
+  output:
+    text: 2.4900
+thudm/glm-4.1v-9b-thinking:
+  input:
+    text: 0.0350
+  output:
+    text: 0.1380
+mistralai/devstral-medium:
+  input:
+    text: 0.4000
+  output:
+    text: 2.0000
+mistralai/devstral-small:
+  input:
+    text: 0.0700
+  output:
+    text: 0.2800
+cognitivecomputations/dolphin-mistral-24b-venice-edition:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+x-ai/grok-4:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000
+google/gemma-3n-e2b-it:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+tencent/hunyuan-a13b-instruct:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+tencent/hunyuan-a13b-instruct:
+  input:
+    text: 0.0300
+  output:
+    text: 0.0300
+tngtech/deepseek-r1t2-chimera:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+morph/morph-v3-large:
+  input:
+    text: 0.9000
+  output:
+    text: 1.9000
+morph/morph-v3-fast:
+  input:
+    text: 0.9000
+  output:
+    text: 1.9000
+baidu/ernie-4.5-300b-a47b:
+  input:
+    text: 0.2800
+  output:
+    text: 1.1000
+thedrummer/anubis-70b-v1.1:
+  input:
+    text: 0.4000
+  output:
+    text: 0.7000
+inception/mercury:
+  input:
+    text: 0.2500
+  output:
+    text: 1.0000
+mistralai/mistral-small-3.2-24b-instruct:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+mistralai/mistral-small-3.2-24b-instruct:
+  input:
+    text: 0.0200
+  output:
+    text: 0.0800
+minimax/minimax-m1:
+  input:
+    text: 0.3000
+  output:
+    text: 1.6500
+google/gemini-2.5-flash-lite-preview-06-17:
+  input:
+    text: 0.1000
+  output:
+    text: 0.4000
+google/gemini-2.5-flash:
+  input:
+    text: 0.3000
+  output:
+    text: 2.5000
+google/gemini-2.5-pro:
+  input:
+    text: 1.2500
+  output:
+    text: 10.0000
+moonshotai/kimi-dev-72b:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+openai/o3-pro:
+  input:
+    text: 20.0000
+  output:
+    text: 80.0000
+x-ai/grok-3-mini:
+  input:
+    text: 0.3000
+  output:
+    text: 0.5000
+x-ai/grok-3:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000
+mistralai/magistral-small-2506:
+  input:
+    text: 0.5000
+  output:
+    text: 1.5000
+mistralai/magistral-medium-2506:
+  input:
+    text: 2.0000
+  output:
+    text: 5.0000
+mistralai/magistral-medium-2506:thinking:
+  input:
+    text: 2.0000
+  output:
+    text: 5.0000
+google/gemini-2.5-pro-preview:
+  input:
+    text: 1.2500
+  output:
+    text: 10.0000
+deepseek/deepseek-r1-distill-qwen-7b:
+  input:
+    text: 0.1000
+  output:
+    text: 0.2000
+deepseek/deepseek-r1-0528-qwen3-8b:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+deepseek/deepseek-r1-0528-qwen3-8b:
+  input:
+    text: 0.0100
+  output:
+    text: 0.0200
+deepseek/deepseek-r1-0528:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+deepseek/deepseek-r1-0528:
+  input:
+    text: 0.1799
+  output:
+    text: 0.7201
+sarvamai/sarvam-m:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+thedrummer/valkyrie-49b-v1:
+  input:
+    text: 0.6500
+  output:
+    text: 1.0000
+anthropic/claude-opus-4:
+  input:
+    text: 15.0000
+  output:
+    text: 75.0000
+anthropic/claude-sonnet-4:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000
+mistralai/devstral-small-2505:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+mistralai/devstral-small-2505:
+  input:
+    text: 0.0200
+  output:
+    text: 0.0800
+google/gemma-3n-e4b-it:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+google/gemma-3n-e4b-it:
+  input:
+    text: 0.0200
+  output:
+    text: 0.0400
+openai/codex-mini:
+  input:
+    text: 1.5000
+  output:
+    text: 6.0000
+nousresearch/deephermes-3-mistral-24b-preview:
+  input:
+    text: 0.0933
+  output:
+    text: 0.3734
+mistralai/mistral-medium-3:
+  input:
+    text: 0.4000
+  output:
+    text: 2.0000
+google/gemini-2.5-pro-preview-05-06:
+  input:
+    text: 1.2500
+  output:
+    text: 10.0000
+arcee-ai/spotlight:
+  input:
+    text: 0.1800
+  output:
+    text: 0.1800
+arcee-ai/maestro-reasoning:
+  input:
+    text: 0.9000
+  output:
+    text: 3.3000
+arcee-ai/virtuoso-large:
+  input:
+    text: 0.7500
+  output:
+    text: 1.2000
+arcee-ai/coder-large:
+  input:
+    text: 0.5000
+  output:
+    text: 0.8000
+microsoft/phi-4-reasoning-plus:
+  input:
+    text: 0.0700
+  output:
+    text: 0.3500
+inception/mercury-coder:
+  input:
+    text: 0.2500
+  output:
+    text: 1.0000
+qwen/qwen3-4b:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+opengvlab/internvl3-14b:
+  input:
+    text: 0.2000
+  output:
+    text: 0.4000
+deepseek/deepseek-prover-v2:
+  input:
+    text: 0.5000
+  output:
+    text: 2.1800
+meta-llama/llama-guard-4-12b:
+  input:
+    text: 0.0500
+  output:
+    text: 0.0500
+qwen/qwen3-30b-a3b:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+qwen/qwen3-30b-a3b:
+  input:
+    text: 0.0200
+  output:
+    text: 0.0800
+qwen/qwen3-8b:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+qwen/qwen3-8b:
+  input:
+    text: 0.0350
+  output:
+    text: 0.1380
+qwen/qwen3-14b:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+qwen/qwen3-14b:
+  input:
+    text: 0.0600
+  output:
+    text: 0.2400
+qwen/qwen3-32b:
+  input:
+    text: 0.0180
+  output:
+    text: 0.0720
+qwen/qwen3-235b-a22b:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+qwen/qwen3-235b-a22b:
+  input:
+    text: 0.1300
+  output:
+    text: 0.6000
+tngtech/deepseek-r1t-chimera:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+tngtech/deepseek-r1t-chimera:
+  input:
+    text: 0.1799
+  output:
+    text: 0.7201
+microsoft/mai-ds-r1:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+microsoft/mai-ds-r1:
+  input:
+    text: 0.1999
+  output:
+    text: 0.8001
+thudm/glm-z1-32b:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+thudm/glm-4-32b:
+  input:
+    text: 0.2400
+  output:
+    text: 0.2400
+openai/o4-mini-high:
+  input:
+    text: 1.1000
+  output:
+    text: 4.4000
+openai/o3:
+  input:
+    text: 2.0000
+  output:
+    text: 8.0000
+openai/o4-mini:
+  input:
+    text: 1.1000
+  output:
+    text: 4.4000
+shisa-ai/shisa-v2-llama3.3-70b:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+shisa-ai/shisa-v2-llama3.3-70b:
+  input:
+    text: 0.0200
+  output:
+    text: 0.0800
+openai/gpt-4.1:
+  input:
+    text: 2.0000
+  output:
+    text: 8.0000
+openai/gpt-4.1-mini:
+  input:
+    text: 0.4000
+  output:
+    text: 1.6000
+openai/gpt-4.1-nano:
+  input:
+    text: 0.1000
+  output:
+    text: 0.4000
+eleutherai/llemma_7b:
+  input:
+    text: 0.8000
+  output:
+    text: 1.2000
+alfredpros/codellama-7b-instruct-solidity:
+  input:
+    text: 0.6000
+  output:
+    text: 1.0000
+arliai/qwq-32b-arliai-rpr-v1:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+arliai/qwq-32b-arliai-rpr-v1:
+  input:
+    text: 0.0100
+  output:
+    text: 0.0400
+agentica-org/deepcoder-14b-preview:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+agentica-org/deepcoder-14b-preview:
+  input:
+    text: 0.0150
+  output:
+    text: 0.0150
+moonshotai/kimi-vl-a3b-thinking:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+moonshotai/kimi-vl-a3b-thinking:
+  input:
+    text: 0.0250
+  output:
+    text: 0.1000
+x-ai/grok-3-mini-beta:
+  input:
+    text: 0.3000
+  output:
+    text: 0.5000
+x-ai/grok-3-beta:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000
+nvidia/llama-3.3-nemotron-super-49b-v1:
+  input:
+    text: 0.1300
+  output:
+    text: 0.4000
+nvidia/llama-3.1-nemotron-ultra-253b-v1:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+nvidia/llama-3.1-nemotron-ultra-253b-v1:
+  input:
+    text: 0.6000
+  output:
+    text: 1.8000
+meta-llama/llama-4-maverick:
+  input:
+    text: 0.1500
+  output:
+    text: 0.6000
+meta-llama/llama-4-scout:
+  input:
+    text: 0.0800
+  output:
+    text: 0.3000
+deepseek/deepseek-v3-base:
+  input:
+    text: 0.1999
+  output:
+    text: 0.8001
+scb10x/llama3.1-typhoon2-70b-instruct:
+  input:
+    text: 0.8800
+  output:
+    text: 0.8800
+google/gemini-2.5-pro-exp-03-25:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+qwen/qwen2.5-vl-32b-instruct:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+qwen/qwen2.5-vl-32b-instruct:
+  input:
+    text: 0.0200
+  output:
+    text: 0.0800
+deepseek/deepseek-chat-v3-0324:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+deepseek/deepseek-chat-v3-0324:
+  input:
+    text: 0.1799
+  output:
+    text: 0.7201
+featherless/qwerky-72b:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+openai/o1-pro:
+  input:
+    text: 150.0000
+  output:
+    text: 600.0000
+mistralai/mistral-small-3.1-24b-instruct:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+mistralai/mistral-small-3.1-24b-instruct:
+  input:
+    text: 0.0180
+  output:
+    text: 0.0720
+google/gemma-3-4b-it:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+google/gemma-3-4b-it:
+  input:
+    text: 0.0200
+  output:
+    text: 0.0400
+google/gemma-3-12b-it:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+google/gemma-3-12b-it:
+  input:
+    text: 0.0481
+  output:
+    text: 0.1926
+cohere/command-a:
+  input:
+    text: 2.0000
+  output:
+    text: 8.0000
+openai/gpt-4o-mini-search-preview:
+  input:
+    text: 0.1500
+  output:
+    text: 0.6000
+openai/gpt-4o-search-preview:
+  input:
+    text: 2.5000
+  output:
+    text: 10.0000
+rekaai/reka-flash-3:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+google/gemma-3-27b-it:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+google/gemma-3-27b-it:
+  input:
+    text: 0.0666
+  output:
+    text: 0.2667
+thedrummer/anubis-pro-105b-v1:
+  input:
+    text: 0.5000
+  output:
+    text: 1.0000
+thedrummer/skyfall-36b-v2:
+  input:
+    text: 0.0481
+  output:
+    text: 0.1926
+microsoft/phi-4-multimodal-instruct:
+  input:
+    text: 0.0500
+  output:
+    text: 0.1000
+perplexity/sonar-reasoning-pro:
+  input:
+    text: 2.0000
+  output:
+    text: 8.0000
+perplexity/sonar-pro:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000
+perplexity/sonar-deep-research:
+  input:
+    text: 2.0000
+  output:
+    text: 8.0000
+qwen/qwq-32b:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+qwen/qwq-32b:
+  input:
+    text: 0.0750
+  output:
+    text: 0.1500
+nousresearch/deephermes-3-llama-3-8b-preview:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+google/gemini-2.0-flash-lite-001:
+  input:
+    text: 0.0750
+  output:
+    text: 0.3000
+anthropic/claude-3.7-sonnet:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000
+anthropic/claude-3.7-sonnet:thinking:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000
+anthropic/claude-3.7-sonnet:beta:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000
+perplexity/r1-1776:
+  input:
+    text: 2.0000
+  output:
+    text: 8.0000
+mistralai/mistral-saba:
+  input:
+    text: 0.2000
+  output:
+    text: 0.6000
+cognitivecomputations/dolphin3.0-r1-mistral-24b:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+cognitivecomputations/dolphin3.0-r1-mistral-24b:
+  input:
+    text: 0.0100
+  output:
+    text: 0.0341
+cognitivecomputations/dolphin3.0-mistral-24b:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+cognitivecomputations/dolphin3.0-mistral-24b:
+  input:
+    text: 0.0370
+  output:
+    text: 0.1482
+meta-llama/llama-guard-3-8b:
+  input:
+    text: 0.0200
+  output:
+    text: 0.0600
+openai/o3-mini-high:
+  input:
+    text: 1.1000
+  output:
+    text: 4.4000
+deepseek/deepseek-r1-distill-llama-8b:
+  input:
+    text: 0.0400
+  output:
+    text: 0.0400
+google/gemini-2.0-flash-001:
+  input:
+    text: 0.1000
+  output:
+    text: 0.4000
+qwen/qwen-vl-plus:
+  input:
+    text: 0.2100
+  output:
+    text: 0.6300
+aion-labs/aion-1.0:
+  input:
+    text: 4.0000
+  output:
+    text: 8.0000
+aion-labs/aion-1.0-mini:
+  input:
+    text: 0.7000
+  output:
+    text: 1.4000
+aion-labs/aion-rp-llama-3.1-8b:
+  input:
+    text: 0.2000
+  output:
+    text: 0.2000
+qwen/qwen-vl-max:
+  input:
+    text: 0.8000
+  output:
+    text: 3.2000
+qwen/qwen-turbo:
+  input:
+    text: 0.0500
+  output:
+    text: 0.2000
+qwen/qwen2.5-vl-72b-instruct:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+qwen/qwen2.5-vl-72b-instruct:
+  input:
+    text: 0.2500
+  output:
+    text: 0.7500
+qwen/qwen-plus:
+  input:
+    text: 0.4000
+  output:
+    text: 1.2000
+qwen/qwen-max:
+  input:
+    text: 1.6000
+  output:
+    text: 6.4000
+openai/o3-mini:
+  input:
+    text: 1.1000
+  output:
+    text: 4.4000
+deepseek/deepseek-r1-distill-qwen-1.5b:
+  input:
+    text: 0.1800
+  output:
+    text: 0.1800
+mistralai/mistral-small-24b-instruct-2501:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+mistralai/mistral-small-24b-instruct-2501:
+  input:
+    text: 0.0200
+  output:
+    text: 0.0800
+deepseek/deepseek-r1-distill-qwen-32b:
+  input:
+    text: 0.0750
+  output:
+    text: 0.1500
+deepseek/deepseek-r1-distill-qwen-14b:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+deepseek/deepseek-r1-distill-qwen-14b:
+  input:
+    text: 0.1500
+  output:
+    text: 0.1500
+perplexity/sonar-reasoning:
+  input:
+    text: 1.0000
+  output:
+    text: 5.0000
+perplexity/sonar:
+  input:
+    text: 1.0000
+  output:
+    text: 1.0000
+liquid/lfm-7b:
+  input:
+    text: 0.0100
+  output:
+    text: 0.0100
+liquid/lfm-3b:
+  input:
+    text: 0.0200
+  output:
+    text: 0.0200
+deepseek/deepseek-r1-distill-llama-70b:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+deepseek/deepseek-r1-distill-llama-70b:
+  input:
+    text: 0.0333
+  output:
+    text: 0.1333
+deepseek/deepseek-r1:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+deepseek/deepseek-r1:
+  input:
+    text: 0.4000
+  output:
+    text: 2.0000
+minimax/minimax-01:
+  input:
+    text: 0.2000
+  output:
+    text: 1.1000
+mistralai/codestral-2501:
+  input:
+    text: 0.3000
+  output:
+    text: 0.9000
+microsoft/phi-4:
+  input:
+    text: 0.0600
+  output:
+    text: 0.1400
+deepseek/deepseek-chat:
+  input:
+    text: 0.1799
+  output:
+    text: 0.7201
+sao10k/l3.3-euryale-70b:
+  input:
+    text: 0.6500
+  output:
+    text: 0.7500
+openai/o1:
+  input:
+    text: 15.0000
+  output:
+    text: 60.0000
+x-ai/grok-2-vision-1212:
+  input:
+    text: 2.0000
+  output:
+    text: 10.0000
+x-ai/grok-2-1212:
+  input:
+    text: 2.0000
+  output:
+    text: 10.0000
+cohere/command-r7b-12-2024:
+  input:
+    text: 0.0375
+  output:
+    text: 0.1500
+google/gemini-2.0-flash-exp:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+meta-llama/llama-3.3-70b-instruct:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+meta-llama/llama-3.3-70b-instruct:
+  input:
+    text: 0.0380
+  output:
+    text: 0.1200
+amazon/nova-lite-v1:
+  input:
+    text: 0.0600
+  output:
+    text: 0.2400
+amazon/nova-micro-v1:
+  input:
+    text: 0.0350
+  output:
+    text: 0.1400
+amazon/nova-pro-v1:
+  input:
+    text: 0.8000
+  output:
+    text: 3.2000
+qwen/qwq-32b-preview:
+  input:
+    text: 0.2000
+  output:
+    text: 0.2000
+openai/gpt-4o-2024-11-20:
+  input:
+    text: 2.5000
+  output:
+    text: 10.0000
+mistralai/mistral-large-2411:
+  input:
+    text: 2.0000
+  output:
+    text: 6.0000
+mistralai/mistral-large-2407:
+  input:
+    text: 2.0000
+  output:
+    text: 6.0000
+mistralai/pixtral-large-2411:
+  input:
+    text: 2.0000
+  output:
+    text: 6.0000
+x-ai/grok-vision-beta:
+  input:
+    text: 5.0000
+  output:
+    text: 15.0000
+infermatic/mn-inferor-12b:
+  input:
+    text: 0.6000
+  output:
+    text: 1.0000
+qwen/qwen-2.5-coder-32b-instruct:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+qwen/qwen-2.5-coder-32b-instruct:
+  input:
+    text: 0.0500
+  output:
+    text: 0.2000
+raifle/sorcererlm-8x22b:
+  input:
+    text: 4.5000
+  output:
+    text: 4.5000
+thedrummer/unslopnemo-12b:
+  input:
+    text: 0.4000
+  output:
+    text: 0.4000
+anthropic/claude-3.5-haiku:beta:
+  input:
+    text: 0.8000
+  output:
+    text: 4.0000
+anthropic/claude-3.5-haiku:
+  input:
+    text: 0.8000
+  output:
+    text: 4.0000
+anthropic/claude-3.5-haiku-20241022:
+  input:
+    text: 0.8000
+  output:
+    text: 4.0000
+anthracite-org/magnum-v4-72b:
+  input:
+    text: 2.5000
+  output:
+    text: 3.0000
+anthropic/claude-3.5-sonnet:beta:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000
+anthropic/claude-3.5-sonnet:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000
+mistralai/ministral-8b:
+  input:
+    text: 0.1000
+  output:
+    text: 0.1000
+mistralai/ministral-3b:
+  input:
+    text: 0.0400
+  output:
+    text: 0.0400
+qwen/qwen-2.5-7b-instruct:
+  input:
+    text: 0.0400
+  output:
+    text: 0.1000
+nvidia/llama-3.1-nemotron-70b-instruct:
+  input:
+    text: 0.1200
+  output:
+    text: 0.3000
+inflection/inflection-3-productivity:
+  input:
+    text: 2.5000
+  output:
+    text: 10.0000
+inflection/inflection-3-pi:
+  input:
+    text: 2.5000
+  output:
+    text: 10.0000
+google/gemini-flash-1.5-8b:
+  input:
+    text: 0.0375
+  output:
+    text: 0.1500
+thedrummer/rocinante-12b:
+  input:
+    text: 0.1900
+  output:
+    text: 0.4500
+anthracite-org/magnum-v2-72b:
+  input:
+    text: 3.0000
+  output:
+    text: 3.0000
+liquid/lfm-40b:
+  input:
+    text: 0.1500
+  output:
+    text: 0.1500
+meta-llama/llama-3.2-3b-instruct:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+meta-llama/llama-3.2-3b-instruct:
+  input:
+    text: 0.0030
+  output:
+    text: 0.0060
+meta-llama/llama-3.2-1b-instruct:
+  input:
+    text: 0.0050
+  output:
+    text: 0.0100
+meta-llama/llama-3.2-90b-vision-instruct:
+  input:
+    text: 1.2000
+  output:
+    text: 1.2000
+meta-llama/llama-3.2-11b-vision-instruct:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+meta-llama/llama-3.2-11b-vision-instruct:
+  input:
+    text: 0.0490
+  output:
+    text: 0.0490
+qwen/qwen-2.5-72b-instruct:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+qwen/qwen-2.5-72b-instruct:
+  input:
+    text: 0.0666
+  output:
+    text: 0.2667
+neversleep/llama-3.1-lumimaid-8b:
+  input:
+    text: 0.1000
+  output:
+    text: 0.9000
+openai/o1-mini:
+  input:
+    text: 1.1000
+  output:
+    text: 4.4000
+openai/o1-mini-2024-09-12:
+  input:
+    text: 1.1000
+  output:
+    text: 4.4000
+mistralai/pixtral-12b:
+  input:
+    text: 0.1000
+  output:
+    text: 0.1000
+cohere/command-r-plus-08-2024:
+  input:
+    text: 2.5000
+  output:
+    text: 10.0000
+cohere/command-r-08-2024:
+  input:
+    text: 0.1500
+  output:
+    text: 0.6000
+qwen/qwen-2.5-vl-7b-instruct:
+  input:
+    text: 0.2000
+  output:
+    text: 0.2000
+sao10k/l3.1-euryale-70b:
+  input:
+    text: 0.6500
+  output:
+    text: 0.7500
+microsoft/phi-3.5-mini-128k-instruct:
+  input:
+    text: 0.1000
+  output:
+    text: 0.1000
+nousresearch/hermes-3-llama-3.1-70b:
+  input:
+    text: 0.1000
+  output:
+    text: 0.2800
+nousresearch/hermes-3-llama-3.1-405b:
+  input:
+    text: 0.7000
+  output:
+    text: 0.8000
+openai/chatgpt-4o-latest:
+  input:
+    text: 5.0000
+  output:
+    text: 15.0000
+sao10k/l3-lunaris-8b:
+  input:
+    text: 0.0200
+  output:
+    text: 0.0500
+openai/gpt-4o-2024-08-06:
+  input:
+    text: 2.5000
+  output:
+    text: 10.0000
+meta-llama/llama-3.1-405b:
+  input:
+    text: 2.0000
+  output:
+    text: 2.0000
+meta-llama/llama-3.1-8b-instruct:
+  input:
+    text: 0.0150
+  output:
+    text: 0.0200
+meta-llama/llama-3.1-405b-instruct:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+meta-llama/llama-3.1-405b-instruct:
+  input:
+    text: 0.8000
+  output:
+    text: 0.8000
+meta-llama/llama-3.1-70b-instruct:
+  input:
+    text: 0.1000
+  output:
+    text: 0.2800
+mistralai/mistral-nemo:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+mistralai/mistral-nemo:
+  input:
+    text: 0.0075
+  output:
+    text: 0.0500
+openai/gpt-4o-mini:
+  input:
+    text: 0.1500
+  output:
+    text: 0.6000
+openai/gpt-4o-mini-2024-07-18:
+  input:
+    text: 0.1500
+  output:
+    text: 0.6000
+google/gemma-2-27b-it:
+  input:
+    text: 0.6500
+  output:
+    text: 0.6500
+google/gemma-2-9b-it:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+google/gemma-2-9b-it:
+  input:
+    text: 0.0100
+  output:
+    text: 0.0100
+anthropic/claude-3.5-sonnet-20240620:beta:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000
+anthropic/claude-3.5-sonnet-20240620:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000
+sao10k/l3-euryale-70b:
+  input:
+    text: 1.4800
+  output:
+    text: 1.4800
+cognitivecomputations/dolphin-mixtral-8x22b:
+  input:
+    text: 0.9000
+  output:
+    text: 0.9000
+qwen/qwen-2-72b-instruct:
+  input:
+    text: 0.9000
+  output:
+    text: 0.9000
+mistralai/mistral-7b-instruct:free:
+  input:
+    text: 0.0000
+  output:
+    text: 0.0000
+mistralai/mistral-7b-instruct:
+  input:
+    text: 0.0280
+  output:
+    text: 0.0540
+nousresearch/hermes-2-pro-llama-3-8b:
+  input:
+    text: 0.0250
+  output:
+    text: 0.0400
+mistralai/mistral-7b-instruct-v0.3:
+  input:
+    text: 0.0280
+  output:
+    text: 0.0540
+microsoft/phi-3-mini-128k-instruct:
+  input:
+    text: 0.1000
+  output:
+    text: 0.1000
+microsoft/phi-3-medium-128k-instruct:
+  input:
+    text: 1.0000
+  output:
+    text: 1.0000
+neversleep/llama-3-lumimaid-70b:
+  input:
+    text: 4.0000
+  output:
+    text: 6.0000
+google/gemini-flash-1.5:
+  input:
+    text: 0.0750
+  output:
+    text: 0.3000
+openai/gpt-4o:
+  input:
+    text: 2.5000
+  output:
+    text: 10.0000
+openai/gpt-4o:extended:
+  input:
+    text: 6.0000
+  output:
+    text: 18.0000
+meta-llama/llama-guard-2-8b:
+  input:
+    text: 0.2000
+  output:
+    text: 0.2000
+openai/gpt-4o-2024-05-13:
+  input:
+    text: 5.0000
+  output:
+    text: 15.0000
+sao10k/fimbulvetr-11b-v2:
+  input:
+    text: 0.8000
+  output:
+    text: 1.2000
+meta-llama/llama-3-8b-instruct:
+  input:
+    text: 0.0300
+  output:
+    text: 0.0600
+meta-llama/llama-3-70b-instruct:
+  input:
+    text: 0.3000
+  output:
+    text: 0.4000
+mistralai/mixtral-8x22b-instruct:
+  input:
+    text: 0.9000
+  output:
+    text: 0.9000
+microsoft/wizardlm-2-8x22b:
+  input:
+    text: 0.4800
+  output:
+    text: 0.4800
+google/gemini-pro-1.5:
+  input:
+    text: 1.2500
+  output:
+    text: 5.0000
+openai/gpt-4-turbo:
+  input:
+    text: 10.0000
+  output:
+    text: 30.0000
+cohere/command-r-plus:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000
+cohere/command-r-plus-04-2024:
+  input:
+    text: 3.0000
+  output:
+    text: 15.0000
+sophosympatheia/midnight-rose-70b:
+  input:
+    text: 0.8000
+  output:
+    text: 0.8000
+cohere/command:
+  input:
+    text: 1.0000
+  output:
+    text: 2.0000
+cohere/command-r:
+  input:
+    text: 0.5000
+  output:
+    text: 1.5000
+anthropic/claude-3-haiku:beta:
+  input:
+    text: 0.2500
+  output:
+    text: 1.2500
+anthropic/claude-3-haiku:
+  input:
+    text: 0.2500
+  output:
+    text: 1.2500
+anthropic/claude-3-opus:beta:
+  input:
+    text: 15.0000
+  output:
+    text: 75.0000
+anthropic/claude-3-opus:
+  input:
+    text: 15.0000
+  output:
+    text: 75.0000
+cohere/command-r-03-2024:
+  input:
+    text: 0.5000
+  output:
+    text: 1.5000
+mistralai/mistral-large:
+  input:
+    text: 2.0000
+  output:
+    text: 6.0000
+openai/gpt-3.5-turbo-0613:
+  input:
+    text: 1.0000
+  output:
+    text: 2.0000
+openai/gpt-4-turbo-preview:
+  input:
+    text: 10.0000
+  output:
+    text: 30.0000
+nousresearch/nous-hermes-2-mixtral-8x7b-dpo:
+  input:
+    text: 0.6000
+  output:
+    text: 0.6000
+mistralai/mistral-small:
+  input:
+    text: 0.2000
+  output:
+    text: 0.6000
+mistralai/mistral-tiny:
+  input:
+    text: 0.2500
+  output:
+    text: 0.2500
+mistralai/mistral-7b-instruct-v0.2:
+  input:
+    text: 0.2000
+  output:
+    text: 0.2000
+mistralai/mixtral-8x7b-instruct:
+  input:
+    text: 0.0800
+  output:
+    text: 0.2400
+neversleep/noromaid-20b:
+  input:
+    text: 1.0000
+  output:
+    text: 1.7500
+undi95/toppy-m-7b:
+  input:
+    text: 0.8000
+  output:
+    text: 1.2000
+alpindale/goliath-120b:
+  input:
+    text: 9.0000
+  output:
+    text: 11.0000
+openrouter/auto:
+  input:
+    text: -1000000.0000
+  output:
+    text: -1000000.0000
+openai/gpt-4-1106-preview:
+  input:
+    text: 10.0000
+  output:
+    text: 30.0000
+openai/gpt-3.5-turbo-instruct:
+  input:
+    text: 1.5000
+  output:
+    text: 2.0000
+mistralai/mistral-7b-instruct-v0.1:
+  input:
+    text: 0.1100
+  output:
+    text: 0.1900
+pygmalionai/mythalion-13b:
+  input:
+    text: 0.6000
+  output:
+    text: 1.0000
+openai/gpt-3.5-turbo-16k:
+  input:
+    text: 3.0000
+  output:
+    text: 4.0000
+mancer/weaver:
+  input:
+    text: 1.5000
+  output:
+    text: 1.5000
+undi95/remm-slerp-l2-13b:
+  input:
+    text: 0.7000
+  output:
+    text: 1.0000
+gryphe/mythomax-l2-13b:
+  input:
+    text: 0.0600
+  output:
+    text: 0.0600
+openai/gpt-3.5-turbo:
+  input:
+    text: 0.5000
+  output:
+    text: 1.5000
+openai/gpt-4:
+  input:
+    text: 30.0000
+  output:
+    text: 60.0000
+openai/gpt-4-0314:
+  input:
+    text: 30.0000
+  output:
+    text: 60.0000
+openai/gpt-5:
+  input:
+    text: 1.2500
+  output:
+    text: 10.0000
+openai/gpt-5-mini:
+  input:
+    text: 0.2500
+  output:
+    text: 2.0000
+openai/gpt-5-nano:
+  input:
+    text: 0.0500
+  output:
+    text: 0.4000
+openai/gpt-5-chat:
+  input:
+    text: 1.2500
+  output:
+    text: 10.0000

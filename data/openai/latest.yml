@@ -1,0 +1,347 @@
+gpt-5:
+  input:
+    text: 1.2500
+    text-cache: 0.1250
+  output:
+    text: 10.0000
+gpt-5-mini:
+  input:
+    text: 0.2500
+    text-cache: 0.0250
+  output:
+    text: 2.0000
+gpt-5-nano:
+  input:
+    text: 0.0500
+    text-cache: 0.0050
+  output:
+    text: 0.4000
+
+gpt-5-chat-latest:
+  input:
+    text: 1.2500
+    text-cache: 0.1250
+  output:
+    text: 10.0000
+
+gpt-4.1:
+  input:
+    text: 2.0000
+    text-cache: 0.5000
+  output:
+    text: 8.0000
+gpt-4.1-mini:
+  input:
+    text: 0.4000
+    text-cache: 0.1000
+  output:
+    text: 1.6000
+gpt-4.1-nano:
+  input:
+    text: 0.1000
+    text-cache: 0.0250
+  output:
+    text: 0.4000
+gpt-4o:
+  input:
+    text: 2.5000
+    text-cache: 1.2500
+  output:
+    text: 10.0000
+gpt-4o-2024-05-13:
+  input:
+    text: 5.0000
+  output:
+    text: 15.0000
+
+gpt-4o-realtime-preview:
+  input:
+    text: 5.0000
+    text-cache: 2.5000
+  output:
+    text: 20.0000
+gpt-4o-mini:
+  input:
+    text: 0.1500
+    text-cache: 0.0750
+  output:
+    text: 0.6000
+
+gpt-4o-mini-realtime-preview:
+  input:
+    text: 0.6000
+    text-cache: 0.3000
+  output:
+    text: 2.4000
+gpt-4o-search-preview:
+  input:
+    text: 2.5000
+  output:
+    text: 10.0000
+chatgpt-4o-latest:
+  input:
+    text: 5.0000
+  output:
+    text: 15.0000
+
+o1:
+  input:
+    text: 15.0000
+    text-cache: 7.5000
+  output:
+    text: 60.0000
+o1-pro:
+  input:
+    text: 150.0000
+  output:
+    text: 600.0000
+o3-pro:
+  input:
+    text: 20.0000
+  output:
+    text: 80.0000
+o3:
+  input:
+    text: 2.0000
+    text-cache: 0.5000
+  output:
+    text: 8.0000
+o3-deep-research:
+  input:
+    text: 10.0000
+    text-cache: 2.5000
+  output:
+    text: 40.0000
+o4-mini:
+  input:
+    text: 1.1000
+    text-cache: 0.2750
+  output:
+    text: 4.4000
+o4-mini-deep-research:
+  input:
+    text: 2.0000
+    text-cache: 0.5000
+  output:
+    text: 8.0000
+o3-mini:
+  input:
+    text: 1.1000
+    text-cache: 0.5500
+  output:
+    text: 4.4000
+o1-mini:
+  input:
+    text: 1.1000
+    text-cache: 0.5500
+  output:
+    text: 4.4000
+codex-mini-latest:
+  input:
+    text: 1.5000
+    text-cache: 0.3750
+  output:
+    text: 6.0000
+gpt-4o-mini-search-preview:
+  input:
+    text: 0.1500
+  output:
+    text: 0.6000
+computer-use-preview:
+  input:
+    text: 3.0000
+  output:
+    text: 12.0000
+gpt-4:
+  input:
+    text: 30.0000
+  output:
+    text: 60.0000
+gpt-4-0314:
+  input:
+    text: 30.0000
+  output:
+    text: 60.0000
+gpt-4-0613:
+  input:
+    text: 30.0000
+  output:
+    text: 60.0000
+gpt-4-32k:
+  input:
+    text: 60.0000
+  output:
+    text: 120.0000
+gpt-4-32k-0314:
+  input:
+    text: 60.0000
+  output:
+    text: 120.0000
+gpt-4-32k-0613:
+  input:
+    text: 60.0000
+  output:
+    text: 120.0000
+gpt-4-0125-preview:
+  input:
+    text: 10.0000
+  output:
+    text: 30.0000
+gpt-4-1106-preview:
+  input:
+    text: 10.0000
+  output:
+    text: 30.0000
+gpt-4-1106-vision-preview:
+  input:
+    text: 10.0000
+  output:
+    text: 30.0000
+gpt-4-turbo:
+  input:
+    text: 10.0000
+  output:
+    text: 30.0000
+gpt-4-turbo-0125-preview:
+  input:
+    text: 10.0000
+  output:
+    text: 30.0000
+
+gpt-3.5-turbo-0613:
+  input:
+    text: 1.5000
+  output:
+    text: 2.0000
+gpt-35-turbo-16k:
+  input:
+    text: 3.0000
+  output:
+    text: 4.0000
+gpt-3.5-turbo-16k-0613:
+  input:
+    text: 3.0000
+  output:
+    text: 4.0000
+gpt-3.5-turbo-0125:
+  input:
+    text: 0.5000
+  output:
+    text: 1.5000
+gpt-3.5-turbo:
+  input:
+    text: 1.5000
+  output:
+    text: 2.0000
+gpt-3.5-turbo-0301:
+  input:
+    text: 1.5000
+  output:
+    text: 2.0000
+gpt-35-turbo:
+  input:
+    text: 1.5000
+  output:
+    text: 2.0000
+gpt-3.5-turbo-1106:
+  input:
+    text: 1.0000
+  output:
+    text: 2.0000
+gpt-3.5-turbo-instruct:
+  input:
+    text: 1.5000
+  output:
+    text: 2.0000
+gpt-3.5-turbo-instruct-0914:
+  input:
+    text: 1.5000
+  output:
+    text: 2.0000
+
+
+ada:
+  input:
+    text: 0.4000
+  output:
+    text: 0.4000
+text-ada-001:
+  input:
+    text: 0.4000
+  output:
+    text: 0.4000
+babbage:
+  input:
+    text: 0.5000
+  output:
+    text: 0.5000
+curie:
+  input:
+    text: 2.0000
+  output:
+    text: 2.0000
+text-curie-001:
+  input:
+    text: 2.0000
+  output:
+    text: 2.0000
+davinci:
+  input:
+    text: 20.0000
+  output:
+    text: 20.0000
+text-davinci-001:
+  input:
+    text: 20.0000
+  output:
+    text: 20.0000
+text-davinci-002:
+  input:
+    text: 20.0000
+  output:
+    text: 20.0000
+text-davinci-003:
+  input:
+    text: 20.0000
+  output:
+    text: 20.0000
+text-embedding-ada-002:
+  input:
+    text: 0.1000
+  output:
+    text: 0.0000
+text-embedding-ada:
+  input:
+    text: 0.1000
+  output:
+    text: 0.0000
+text-embedding-ada-002-v2:
+  input:
+    text: 0.1000
+  output:
+    text: 0.0000
+text-embedding-3-small:
+  input:
+    text: 0.0200
+  output:
+    text: 0.0000
+text-embedding-3-large:
+  input:
+    text: 0.1300
+  output:
+    text: 0.0000
+gpt-4-vision-preview:
+  input:
+    text: 10.0000
+  output:
+    text: 30.0000
+gpt-35-turbo-16k-0613:
+  input:
+    text: 3.0000
+  output:
+    text: 4.0000
+o1-preview:
+  input:
+    text: 15.0000
+  output:
+    text: 60.0000
