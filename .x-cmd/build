@@ -1,0 +1,23 @@
+WSROOT="$(x wsroot)"
+
+fun_gen_tmpdir(){
+    local tmpdir="$WSROOT/tmpdata"
+    x rmrf "$tmpdir"; x mkdirp "$tmpdir"
+    local file
+    find "$WSROOT/data" -type f -name '*.yml' | while read -r l; do
+        file="${l#"$WSROOT/data/"}"
+        file="${file%.yml}"
+        file="$tmpdir/$file.json"
+        x ensurefp "$file" || return $?
+        < "$l" x y2j > "$file"
+    done
+}
+
+fun_main()(
+    local tmpdir="$WSROOT/tmpdata"
+    fun_gen_tmpdir || return $?
+    { cd "$tmpdir" && x z "$WSROOT/dist/v0.0.1.tar.gz" ./*; } || return $?
+    x rmrf "$tmpdir"
+)
+
+fun_main "$@"
