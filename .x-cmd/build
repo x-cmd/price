@@ -14,9 +14,14 @@ fun_gen_tmpdir(){
 }
 
 fun_main()(
+    local version="v0.0.1"
+    local tarfile="$WSROOT/dist/${version}.tar.gz"
+    local hashfile="$WSROOT/dist/${version}_hash.txt"
     local tmpdir="$WSROOT/tmpdata"
     fun_gen_tmpdir || return $?
-    { cd "$tmpdir" && x z "$WSROOT/dist/v0.0.1.tar.gz" ./*; } || return $?
+    x rmrf "$WSROOT/dist/${version}.tar.gz"
+    { cd "$tmpdir" && x z "$WSROOT/dist/${version}.tar.gz" ./*; } || return $?
+    x sha512 "$tarfile" > "$hashfile" || return
     x rmrf "$tmpdir"
 )
 

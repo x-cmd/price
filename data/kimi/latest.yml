@@ -14,16 +14,16 @@ kimi-k2-turbo-preview:
     text: 10.0000
 kimi-latest:
   input:
+    text: 0.1500
     text-8k: 0.1500
-    text-8k-cache: 0.2000
     text-32k: 0.1500
-    text-32k-cache: 1.0000
-    text-128k: 0.1500
-    text-128k-cache: 2.0000
+    text-cache: 0.2000
+    text-8k-cache: 1.0000
+    text-32k-cache: 2.0000
   output:
-    text-8k: 2.0000
-    text-32k: 3.0000
-    text-128k: 5.0000
+    text: 2.0000
+    text-8k: 3.0000
+    text-32k: 5.0000
 moonshot-v1-8k:
   input:
     text: 0.2000
