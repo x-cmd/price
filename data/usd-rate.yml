@@ -151,3 +151,6 @@ TRY:
 AED:
   name: Emirati Dirham
   rate: 3.67
+MOP:
+  name: Macanese Pataca
+  rate: 8.04
