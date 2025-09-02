@@ -14,7 +14,7 @@ fun_gen_tmpdir(){
 }
 
 fun_main()(
-    local version="v0.0.1"
+    local version="v0.0.2"
     local tarfile="$WSROOT/dist/${version}.tar.gz"
     local hashfile="$WSROOT/dist/${version}_hash.txt"
     local tmpdir="$WSROOT/tmpdata"
