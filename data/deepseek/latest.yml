@@ -1,12 +1,12 @@
 deepseek-chat:
   input:
-    text: 0.2700
-    text-cache: 0.0700
+    text: 0.2800
+    text-cache: 0.0280
   output:
-    text: 1.1000
+    text: 0.4200
 deepseek-reasoner:
   input:
-    text: 0.5500
-    text-cache: 0.1400
+    text: 0.2800
+    text-cache: 0.0280
   output:
-    text: 2.1900
+    text: 0.4200
