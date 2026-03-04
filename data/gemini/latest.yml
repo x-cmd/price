@@ -1,5 +1,47 @@
-
-
+gemini-3.1-pro:
+  input:
+    text: 2.0000
+    text-200k: 4.0000
+    text-cache: 0.2000
+    text-200k-cache: 0.4000
+  output:
+    text: 12.0000
+    text-200k: 18.0000
+    image: 120.0000
+gemini-3.1-pro-preview:
+  input:
+    text: 2.0000
+    text-200k: 4.0000
+    text-cache: 0.2000
+    text-200k-cache: 0.4000
+  output:
+    text: 12.0000
+    text-200k: 18.0000
+    image: 120.0000
+gemini-3.1-flash-image:
+  input:
+    text: 0.5000
+  output:
+    text: 3.0000
+    image: 60.0000
+gemini-3.1-flash-image-preview:
+  input:
+    text: 0.5000
+  output:
+    text: 3.0000
+    image: 60.0000
+gemini-3.0-pro:
+  input:
+    text: 2.0000
+    text-200k: 4.0000
+  output:
+    text: 12.0000
+    text-200k: 18.0000
+gemini-3.0-flash:
+  input:
+    text: 0.5000
+  output:
+    text: 3.0000
 gemini-2.5-pro:
   input:
     text: 1.2500
@@ -48,7 +90,6 @@ gemini-2.5-flash-lite-preview-06-17:
     audio-cache: 0.1250
   output:
     text: 0.4000
-
 gemini-2.0-flash:
   input:
     text: 0.1000
@@ -62,13 +103,26 @@ gemini-2.0-flash-lite:
     text: 0.0750
   output:
     text: 0.3000
-
-gemini-pro:
+gemini-1.5-pro:
   input:
-    text: 0.1250
+    text: 1.2500
+    text-200k: 2.5000
   output:
-    text: 0.3750
-gemini-1.0-pro-vision-001:
+    text: 10.0000
+    text-200k: 15.0000
+gemini-1.5-flash:
+  input:
+    text: 0.0750
+    text-200k: 0.1500
+  output:
+    text: 0.3000
+    text-200k: 0.6000
+gemini-1.5-flash-8b:
+  input:
+    text: 0.0375
+  output:
+    text: 0.1500
+gemini-pro:
   input:
     text: 0.1250
   output:
@@ -78,38 +132,8 @@ gemini-1.0-pro:
     text: 0.1250
   output:
     text: 0.3750
-gemini-1.5-flash:
+gemini-1.0-pro-vision-001:
   input:
-    text: 0.3500
+    text: 0.1250
   output:
-    text: 1.0500
-gemini-flash-1.5-8b:
-  input:
-    text: 0.0375
-  output:
-    text: 0.1500
-gemini-1.5-pro:
-  input:
-    text: 3.5000
-  output:
-    text: 10.5000
-claude-3-opus:
-  input:
-    text: 15.0000
-  output:
-    text: 75.0000
-claude-3-5-haiku:
-  input:
-    text: 0.8000
-  output:
-    text: 4.0000
-claude-3-5-sonnet:
-  input:
-    text: 3.0000
-  output:
-    text: 15.0000
-claude-3-7-sonnet:
-  input:
-    text: 3.0000
-  output:
-    text: 15.0000
+    text: 0.3750

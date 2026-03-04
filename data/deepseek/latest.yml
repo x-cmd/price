@@ -10,3 +10,15 @@ deepseek-reasoner:
     text-cache: 0.0280
   output:
     text: 0.4200
+deepseek-v3:
+  input:
+    text: 0.2800
+    text-cache: 0.0280
+  output:
+    text: 0.4200
+deepseek-r1:
+  input:
+    text: 0.2800
+    text-cache: 0.0280
+  output:
+    text: 0.4200

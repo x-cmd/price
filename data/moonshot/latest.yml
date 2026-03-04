@@ -1,11 +1,15 @@
-
+kimi-k2:
+  input:
+    text: 0.1500
+    text-cache: 0.1500
+  output:
+    text: 2.5000
 kimi-k2-0711-preview:
   input:
     text: 0.1500
     text-cache: 0.6000
   output:
     text: 2.5000
-
 kimi-k2-turbo-preview:
   input:
     text: 0.6000
